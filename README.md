@@ -15,3 +15,6 @@ I don't know why :/
 
 Please note that although it's correct for the 6 cases in des.in,
 general correctness isn't guaranteed.
+
+The program used to generate the sample outputs is compiled with:  
+`g++ -O2 des.cpp -o des.bin`
