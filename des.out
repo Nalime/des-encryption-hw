@@ -1,0 +1,7 @@
+Ciphertext: AE184796707E59FB, Time: 400800 ns, Encrypt:   6100 ns
+Ciphertext: C29E28FFDD018F11, Time:   3200 ns, Encrypt:   2700 ns
+Ciphertext: DCE6E7099CE53DFC, Time:   2900 ns, Encrypt:   2700 ns
+Ciphertext: 0969EAA031E36D95, Time:   2900 ns, Encrypt:   2600 ns
+Ciphertext: 1EBEB7B57DF58CDB, Time:   2800 ns, Encrypt:   2600 ns
+Ciphertext: FE74785A4C3CCC36, Time:   4600 ns, Encrypt:   2600 ns
+Total Time: 567300 ns
